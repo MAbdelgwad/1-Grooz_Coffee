@@ -1,0 +1,11 @@
+<resources>
+<!--    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">-->
+    <string name="app_name">Grooz_Coffee</string>
+<!-- Header text for the list of toppings [CHAR LIMIT=20]   -->
+    <string name="toppings">Toppings</string>
+<!--    thank you massage for the order summary  [CHAR LIMIT=NONE]-->
+    <string name="thank_you">Thank You!</string>
+    <!--  Name of order summary .it will be shown in the format of "Name: Amy"
+      where Amy is the User's name.  [CHAR LIMIT=NONE]-->
+<!--    <string name="order_summary_name">Name: <xliff:g id="name" example"Amy">%s</string></string>-->
+</resources>
